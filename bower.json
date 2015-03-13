@@ -1,0 +1,23 @@
+{
+  "name": "jquery-zee-sugar",
+  "version": "1.0.0",
+  "authors": [
+    "Julien Cabanès <jcabanes@zeeagency.com>"
+  ],
+  "description": "Zee Agency's jQuery sugar plugin",
+  "main": "jquery.zee-sugar.js",
+  "keywords": [
+    "jquery",
+    "sugar",
+    "zee"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".gitignore",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
